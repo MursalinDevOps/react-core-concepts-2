@@ -1,2 +1,1 @@
-# Live link:
--  react-core-concepts-2.surge.sh
+# Live link: react-core-concepts-2.surge.sh
