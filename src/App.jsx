@@ -6,7 +6,7 @@ import Users from './Users';
 import Friends from './Friends';
 
 function App() {
-  function handleClick(){
+  function handleClick() {
     alert("Click Me Button Clicked!")
   }
   return (
@@ -21,8 +21,8 @@ function App() {
       <Users></Users>
       <Team></Team>
       <Counter></Counter>
-      <div style={{margin: '20px', padding: '20px', border: '2px solid gray', borderRadius: '10px'}}>
-      <button onClick={handleClick}>Click Me</button>
+      <div style={{ margin: '20px', padding: '20px', border: '2px solid gray', borderRadius: '10px' }}>
+        <button onClick={handleClick}>Click Me</button>
       </div>
     </>
   )
